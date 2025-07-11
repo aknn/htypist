@@ -1,4 +1,5 @@
-# htypist - Python Code Typ### How to Play
+# htypist - Python Code Type
+### How to Play
 
 1. **Start the game**: Run the script and press Enter at the welcome screen
 2. **Type the code**: A Python code snippet will appear - type it line by line
